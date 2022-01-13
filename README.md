@@ -13,8 +13,6 @@ It requires the python 3.
 
 ### Prerequisites
 
-! db_login.py with account information to access database should be stored under main folder MasterThesis_FinalHandin_HaojunCai
-
 The following python packages are required: 
 ```
 * pandas
