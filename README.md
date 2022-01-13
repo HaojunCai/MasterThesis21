@@ -8,8 +8,7 @@ The thesis aimed to predict the next-day energy consumption and parking duration
 
 ## Getting Started
 
-In order to run the whole pipelie, you need to run the file main.py
-It requires the python 3.
+In order to run the whole pipelie, you need to run the file main.py. It requires the python 3.
 
 ### Prerequisites
 
