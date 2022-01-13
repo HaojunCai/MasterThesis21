@@ -1,10 +1,11 @@
-# thesis21
-
+# Master Thesis: EV predictions & Charging Strategies Simulation and Evaluation
 Master Thesis, Spring 2021, Institute of Cartography and Geoinformatics at ETH Zurich 
 
 Author: Haojun Cai (haojuncai1996@gmail.com)
 
-The thesis aimed to predict the next-day energy consumption and parking duration of 113 electric vehicles (EV) using three probabilistic models (linear quantile regression, quantile random forest, and gradient boosting quantile regression). Two smart charging strategies were further simulated based on prediction results to evaluate the technical benefits brought to the grid system and monetary gains brought to the EV users.
+## Introduction
+The thesis aimed to predict the next-day energy consumption and parking duration of 113 electric vehicles (EV) using three probabilistic models: linear quantile regression, quantile random forest, and gradient boosting quantile regression. Two smart charging strategies were further simulated based on prediction results to evaluate the technical benefits brought to the grid system and monetary gains brought to the EV users.
+
 ## Getting Started
 
 In order to run the whole pipelie, you need to run the file main.py
@@ -35,7 +36,7 @@ The following python packages are required:
 * math
 ```
 
-### File structure
+### File Structure
    - main.py: main function to run the whole pipeline
    - extract_mobility.py: extract daily mobility features
    - extract_evfeatures.py: extract ev-related features 
