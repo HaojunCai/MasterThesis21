@@ -4,7 +4,7 @@ Master Thesis, Spring 2021, Institute of Cartography and Geoinformatics at ETH Z
 Author: Haojun Cai (haojuncai1996@gmail.com)
 
 ## Introduction
-The thesis aimed to predict the next-day energy consumption and parking duration of 113 electric vehicles (EV) using three probabilistic models: linear quantile regression, quantile random forest, and gradient boosting quantile regression. Two smart charging strategies were further simulated based on prediction results to evaluate the technical benefits brought to the grid system and monetary gains brought to the EV users.
+The research aimed to predict the next-day energy consumption and parking duration of 113 electric vehicles (EV) using three probabilistic models: linear quantile regression, quantile random forest, and gradient boosting quantile regression. Furthermore, two time-shifting smart charging strategies were simulated based on the prediction results to evaluate the technical benefits brought to the grid system and monetary gains brought to the EV users. The prediction results have shown that the mobility features of EV users could help the prediction in some cases and better prepare for the two time-shift charging strategies.
 
 ## Getting Started
 
