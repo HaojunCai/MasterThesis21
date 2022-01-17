@@ -6,6 +6,8 @@ Author: Haojun Cai (haojuncai1996@gmail.com)
 ## Introduction
 The research aimed to predict the next-day energy consumption and parking duration of 113 electric vehicles (EV) using three probabilistic models: linear quantile regression, quantile random forest, and gradient boosting quantile regression. Furthermore, two time-shifting smart charging strategies were simulated based on the prediction results to evaluate the technical benefits brought to the grid system and monetary gains brought to the EV users. The prediction results have shown that the mobility features of EV users could help the prediction in some cases and better prepare for the two time-shift charging strategies.
 
+Poster: https://ethz.ch/content/dam/ethz/special-interest/baug/ikg/geoinformation-engineering-dam/Lehre/Studienarbeiten/MSc/21_FS_Cai.pdf
+
 ## Getting Started
 
 In order to run the whole pipelie, you need to run the file main.py. It requires the python 3.
