@@ -18,7 +18,6 @@ The following python packages are required:
 ```
 * pandas
 * numpy
-* os
 * geopandas
 * sqlalchemy
 * datetime
@@ -33,6 +32,7 @@ The following python packages are required:
 * scipy
 * sys
 * math
+* os
 ```
 
 ### File Structure
@@ -52,5 +52,3 @@ The following python packages are required:
    - compare_baseline_unismart.py: compare baseline and unidirectional smart charging
    - compare_baseline_bismart.py: compare baseline and nidirectional smart charging
    - compare_three_charging_onpeakdef2.py: plot load profile of three charging strategies using on-peak definition 2
-   - eda_results.ipynb: jupyter notebook with eda results
-   - trackintel_downloaded.py
