@@ -1,7 +1,7 @@
 # Master Thesis: EV predictions & Charging Strategies Simulation and Evaluation
 Master Thesis, Spring 2021, Institute of Cartography and Geoinformatics at ETH Zurich 
 
-Author: Haojun Cai (haojuncai1996@gmail.com)
+Author: Haojun Cai
 
 ## Introduction
 The research aimed to predict the next-day energy consumption and parking duration of electric vehicles (EV) using probabilistic regression models. Furthermore, two time-shifting smart charging strategies were simulated based on the prediction results to evaluate the monetary gains for EV users and the technical benefits brought to distribution grids.
